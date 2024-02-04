@@ -18,7 +18,7 @@ Welcome to TravelKaro, a travel booking website designed to promote and facilita
 <ins>JavaScript: Adds interactivity and dynamic features to the website.
 
 # How to Use:
-Clone the repository: git clone https://github.com/AyushSarfare/TravelKaro.git
+Clone the repository: git clone [https://github.com/AyushSarfare/TravelKaro.git](https://github.com/AyushSarfare/TravelKaro-TravelBookingSystem)
 
 Open <ins>index.html</ins> in your preferred browser.
 
